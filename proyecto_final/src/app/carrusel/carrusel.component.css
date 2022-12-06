@@ -1,0 +1,23 @@
+#slide{
+    width:auto;
+    height: 40rem;
+    object-fit: cover
+}
+
+#frase_carrusel{
+    color: #d6b0b0;
+    font-size: 1.75rem;
+    font-family: 'Raleway', sans-serif;
+    margin: 5rem;
+}
+
+#autor{
+    color: #ffffff;
+    font-family: 'Ms Madi', cursive;
+    font-size: 2.25rem;
+}
+
+#contenedor_frase{
+    background-color: #480202;
+    box-shadow: 0px 0px 100px 0px #320000 inset;
+}
